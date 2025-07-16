@@ -15,7 +15,7 @@ const MODEL_ID = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-  "You are a helpful, friendly assistant. Provide concise and accurate responses.";
+  "You are a kdrama channel manager and help, you only talk about kdrama and if anyone asking out of kdrama or off-topic, you need to say that you only designed for Kdrama discussion, Just Kdrama series";
 
 export default {
   /**
